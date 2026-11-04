@@ -5,3 +5,5 @@
 - [关于](about.md)
 - [使用指南](guide.md)
 - [API 参考](api.md)
+
+本站点由 GitHub Actions 自动构建并部署到 GitHub Pages。
